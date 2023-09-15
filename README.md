@@ -1,6 +1,6 @@
 # SessionCounter
 
-Simple and Clean counter app that I use every single day
+Simple and Clean counter app I made that I use every single day
 
 Jar file can be found in app -> build -> libs
 
