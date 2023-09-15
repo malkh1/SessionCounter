@@ -2,7 +2,7 @@
 
 Simple and Clean counter app I made that I use every single day
 
-Jar file can be found in app -> build -> libs
+Jar file(the runnable file) can be found in app -> build -> libs
 
 The app saves to a log file when window is closed
 
