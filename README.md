@@ -1,8 +1,10 @@
-# SessionCounter
+# SessionsCounter
 
 Simple and Clean counter app I made that I use every single day
 
-Jar file(the runnable file) can be found in app -> build -> libs
+You can download the application by going to the Releases tab on the right side of Github, and downloading the SessionsCounter.jar
+
+Once you download, you can run the file, and it should just work
 
 The app saves to a log file when window is closed
 
